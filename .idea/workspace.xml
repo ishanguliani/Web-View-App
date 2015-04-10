@@ -8,51 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="461027d5-e64e-4d41-b36b-9b167f0768f3" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/gen/android/support/v7/appcompat/R.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/BuildConfig.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/MainActivity$MyBrowser.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/MainActivity$MyBrowser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/MainActivity.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$anim.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$anim.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$attr.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$bool.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$color.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$dimen.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$drawable.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$id.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$integer.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$layout.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$string.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$style.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$styleable.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/bin/classes/android/support/v7/appcompat/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R.class" afterPath="$PROJECT_DIR$/bin/classes/com/example/webviewapp/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dexedLibs/appcompat_v7-1a437342c58857520f97884b260bba77.jar" afterPath="$PROJECT_DIR$/bin/dexedLibs/appcompat_v7-1a437342c58857520f97884b260bba77.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="$PROJECT_DIR$/bin/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/webviewapp.apk" afterPath="$PROJECT_DIR$/bin/webviewapp.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/example/webviewapp/BuildConfig.java" afterPath="$PROJECT_DIR$/gen/com/example/webviewapp/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/webviewapp/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/example/webviewapp/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/example/webviewapp/R.java" afterPath="$PROJECT_DIR$/gen/com/example/webviewapp/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/R.txt" afterPath="$PROJECT_DIR$/bin/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/firsthtml.html" afterPath="$PROJECT_DIR$/assets/firsthtml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/jarlist.cache" afterPath="$PROJECT_DIR$/bin/jarlist.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles.css" afterPath="$PROJECT_DIR$/assets/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/res/values-v11/styles.xml" />
     </list>
     <ignored path="webviewapp.iws" />
     <ignored path=".idea/workspace.xml" />
